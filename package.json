@@ -1,0 +1,13 @@
+{
+  "name": "new-clinic-finder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "심평원 공공데이터로 최근 새로 문 연 병원·의원을 찾아 주는 웹앱",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node test/run.mjs"
+  }
+}
